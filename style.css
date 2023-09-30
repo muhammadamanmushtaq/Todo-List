@@ -1,0 +1,20 @@
+.list-group-item{
+    font-size: large;
+}
+body{
+    background-color: #212529;
+}
+.completed {
+    text-decoration: line-through;
+}
+
+li{
+    margin-top: 20px;
+}
+
+li #s1 {
+    margin-right: 50px;
+}
+
+
+
